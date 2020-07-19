@@ -1,0 +1,67 @@
+/* == elements == */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* == Title Bar == */
+
+.fixed-top{
+    background-color: #aabdd4;
+    padding: 0 1rem;
+}
+
+.nav-button {
+    padding: 1rem 0;
+}
+
+/* == Project Area == */
+
+.project {
+    justify-content: center;
+    align-items: center;
+    background-color: #e7f1e8;
+    padding-bottom: 3rem;
+    margin: 0 1rem 0 0;
+}
+
+.project-text {
+    padding: 1rem;
+}
+
+.bcard-image {
+    padding: 3rem;
+}
+
+.buttons {
+    margin: 1rem 1rem 1rem 0;
+}
+
+/* == Future Project Area == */
+
+.future-projects {
+    background-color: #f5d3d3;
+}
+
+/* == Contact Page == */
+
+.contact-form {
+    padding-top: 1rem;
+}
+
+/* == Footer == */
+.fixed-bottom {
+    background: rgb(245, 245, 245);;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo-links{
+    padding: 0px;
+    margin: 0 auto;
+}
