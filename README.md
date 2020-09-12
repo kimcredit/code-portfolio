@@ -8,4 +8,4 @@ It features a link to my completed project with an area for more projects to com
 
 It also has a contact page for future engagement, though right now this remains functionless as the site is not fully deployed for employers to view. 
 
-Preview the site here: https://kimcredit.github.io/portfolio-two/
+Preview the site here: https://kimcredit.github.io/code-portfolio/
