@@ -1,4 +1,4 @@
-# portfolio-two
+# portfolio
 
 This is a basic portfolio website showing off my current project
 
