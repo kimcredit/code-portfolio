@@ -29,7 +29,7 @@ body {
 .project {
     justify-content: center;
     align-items: center;
-    background-color: #e7f1e8;
+    background-color: #d6eef1;
     padding-bottom: 3rem;
     margin: 0 1rem 0 0;
 }
@@ -38,6 +38,14 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #f5eed2;
+    padding-bottom: 3rem;
+    margin: 0 1rem 0 0;
+}
+
+.projectthree {
+    justify-content: center;
+    align-items: center;
+    background-color: #e7f1e8;
     padding-bottom: 3rem;
     margin: 0 1rem 0 0;
 }
@@ -54,6 +62,11 @@ body {
 .boredjar-image {
     padding: 3rem;
     width: 80%;
+}
+
+.snacktime-image {
+    padding: 3rem;
+    width: 90%;
 }
 
 .buttons {
